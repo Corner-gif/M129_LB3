@@ -16,4 +16,5 @@ Dies ist die Ausgangssituation.
 ![help](Screenshots/M4_A1.3.png)
 4. Das erste das verlangt wurde war, die maximalen Hosts für DHCP von 50 auf 10 anzupassen.
 ![help](Screenshots/M4_A1.4.png)
-5. der Nächste schritt war das Standart Passwort zu ändern.
+5. der Nächste schritt war das Standart Passwort von admin zu MyPasswort1! zu ändern.
+6. das Wireless LAN konfigurieren.
