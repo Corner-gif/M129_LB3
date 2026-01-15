@@ -10,19 +10,19 @@ In dieser Aufgabe geht es Haptsächlich um das Einrichten eines Heim-Routers.<br
 Dies ist die Ausgangssituation.
 ![help](Screenshots/M4_A1.png)
 1. Ich musste den Cable Splitter per Koaxialkabel mit dem Cable modem und dem TV verbinden.
-2. Anschliessend musste ich den Cable splitter mit dem Wireless Router verbinden und die beiden PCs (officePC und bedroom PC) mit dem Wireless Router.
+2. Anschliessend musste ich den Cable splitter mit dem Wireless Router verbinden und die beiden PCs (officePC und bedroom PC) mit dem Wireless Router.<br>
 ![alt text](Screenshots/M4A1.2.png)
-3. Hier war das einrichten des Routers an der Reihe, und ich musste per Office PC über den Webbrowser auf den Router zugreiffen.
+3. Hier war das einrichten des Routers an der Reihe, und ich musste per Office PC über den Webbrowser auf den Router zugreiffen.<br>
 ![help](Screenshots/M4_A1.3.png)
-4. Das erste das verlangt wurde war, die maximalen Hosts für DHCP von 50 auf 10 anzupassen.
+4. Das erste das verlangt wurde war, die maximalen Hosts für DHCP von 50 auf 10 anzupassen.<br>
 ![help](Screenshots/M4_A1.4.png)
 5. der Nächste schritt war das Standart Passwort von admin zu MyPasswort1! zu ändern.
-6. das Wireless LAN konfigurieren.
+6. das Wireless LAN konfigurieren.<br>
 ![heelp](Screenshots/Wireless_conf.png)
-7. Wireless Security Konfigurieren
+7. Wireless Security Konfigurieren<br>
 ![help](Screenshots/Passphrase_pw.png)
-8. Konnektivität testen
+8. Konnektivität testen<br>
 ![help](Screenshots/connect_test.png)
-9. Ende
+9. Ende<br>
 ![help](Screenshots/ende_1.png)
 (Ich habe Keine Ahnung wieso das Passwort als nicht abgeschlossen angezeigt wird. Ich habe es gesetzt.)
