@@ -18,3 +18,11 @@ Dies ist die Ausgangssituation.
 ![help](Screenshots/M4_A1.4.png)
 5. der Nächste schritt war das Standart Passwort von admin zu MyPasswort1! zu ändern.
 6. das Wireless LAN konfigurieren.
+![heelp](Screenshots/Wireless_conf.png)
+7. Wireless Security Konfigurieren
+![help](Screenshots/Passphrase_pw.png)
+8. Konnektivität testen
+![help](Screenshots/connect_test.png)
+9. Ende
+![help](Screenshots/ende_1.png)
+(Ich habe Keine Ahnung wieso das Passwort als nicht abgeschlossen angezeigt wird. Ich habe es gesetzt.)
