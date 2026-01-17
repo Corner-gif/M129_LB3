@@ -8,7 +8,7 @@ zuerst erfährt man wie ein Router aufgebaut ist, und wie man Ihn einrichtet.
 **Packet Tracer aufgabe 1:**
 In dieser Aufgabe geht es Haptsächlich um das Einrichten eines Heim-Routers.<br>
 Dies ist die Ausgangssituation.
-![help](Screenshots/M4_A1.png)
+![help](Screenshots/M4_A1.1.png)
 1. Ich musste den Cable Splitter per Koaxialkabel mit dem Cable modem und dem TV verbinden.
 2. Anschliessend musste ich den Cable splitter mit dem Wireless Router verbinden und die beiden PCs (officePC und bedroom PC) mit dem Wireless Router.<br>
 ![alt text](Screenshots/M4A1.2.png)
