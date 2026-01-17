@@ -51,4 +51,9 @@ Auch hier gab es eine Kurze prüfung mit 11 Fragen<br>
 In Modul 7 geht es um die Zugriffsschicht.
 Es wurde Gezeigt wie ein Ethernet Frame aufgebaut sein soll und was die verschiedenen einträge bewirken.
 ![help](Screenshots/M7_frame.png)
-Es gab vereinzelte Fragen die den wissenstand prüften.
+Es gab vereinzelte Fragen die den wissenstand prüften und zum abschluss eine kleine Prüfung.
+![help](Screenshots/M7_prüf.png)
+
+### Zwischenprüfung
+![help](Screenshots/zwi_prü.png)
+### Modul 8
