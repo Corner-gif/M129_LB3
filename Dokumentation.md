@@ -35,5 +35,11 @@ Die Wichtigsten punkte waren, das ISO/OSI Modell und die besprochenen Schichten.
 ### Modul 6
 Hier wurden Netzwerkmedien Besprochen.
 Das Erste Video besprach Basics wie Unshieldet Twistet Pair Kabel und RJ45 konnektoren, sowie Koaxial Kabel.  
-Die Zweite art von Netzwerkmedien die besprochen wurde waren Glasfaserkabel und es wurde über die vorteile gegenüber kupferkabel gesprochen.
-![help](Screenshots/M6_kabel.png)
+Die Zweite art von Netzwerkmedien die besprochen wurde waren Glasfaserkabel und es wurde über die vorteile gegenüber kupferkabel gesprochen.<br>
+![help](Screenshots/M6_kabel.png)<br>
+**Hauptkriterien bei der Auswahl von Netzwerkmedien**
+
+- Maximale Übertragungsdistanz  
+- Geeignete Installationsumgebung  
+- Übertragbare Datenmenge und Geschwindigkeit  
+- Kosten für Medium und Installation
