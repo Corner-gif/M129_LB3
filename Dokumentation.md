@@ -26,3 +26,14 @@ Dies ist die Ausgangssituation.
 9. Ende<br>
 ![help](Screenshots/ende_1.png)
 (Ich habe Keine Ahnung wieso das Passwort als nicht abgeschlossen angezeigt wird. Ich habe es gesetzt.)
+
+### Modul 5
+In diesem Modul ging es um die Grundlage der Kummunikation.
+Es wurden Protokolle und Standarts besprochen, und anschliessend in einer kleinen Prüfung abgefragt.
+Die Wichtigsten punkte waren, das ISO/OSI Modell und die besprochenen Schichten.
+
+### Modul 6
+Hier wurden Netzwerkmedien Besprochen.
+Das Erste Video besprach Basics wie Unshieldet Twistet Pair Kabel und RJ45 konnektoren, sowie Koaxial Kabel.  
+Die Zweite art von Netzwerkmedien die besprochen wurde waren Glasfaserkabel und es wurde über die vorteile gegenüber kupferkabel gesprochen.
+![help](Screenshots/M6_kabel.png)
