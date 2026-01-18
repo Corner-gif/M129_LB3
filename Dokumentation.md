@@ -89,8 +89,8 @@ Weiterführend ging es um die Arten von IPv4 Adressen,
 und über Netzwerksegmentierung.
 ![help](Screenshots/M9_segment.png)
 
-Zum schluss noch die Prüfung.
-![help](Screenshots/M9_prüfung.png)
+Zum schluss noch die Prüfung.<br>
+![help](Screenshots/M9_prüfung.png)<br>
 (aufgrund der länge dieses Moduls und dem fehlen spannender aufgaben habe ich nur die wichtigsten teile dokumentiert)
 
 ### Modul 10
