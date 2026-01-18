@@ -58,3 +58,28 @@ Es gab vereinzelte Fragen die den wissenstand prüften und zum abschluss eine kl
 ![help](Screenshots/zwi_prü.png)
 ### Modul 8
 
+Dieses Modul behandelt das Internetprotokoll (IPv4)
+dazu gibt es eine kurze Packettracer übung.
+1. Ausgangslage<br>
+![help](Screenshots/Ü2_ausgang.png)
+2. pingen des Webservers<br>
+![help](Screenshots/Ü2_ping.png)
+3. Webserver kontaktieren<br>
+![help](Screenshots/Ü2_kontakt.png)
+4. Fertig
+Nach der übung gab es noch ein Video und einen Text zum Thema Internetprotokoll und vertievte das wissen etwas.
+wie nach jedem modul gab es auch hier eine prüfung.
+![help](Screenshots/M8_abschluss.png)
+
+### Modul 9
+In diesem Modul gieng es um Unicast Broadcast und Multicast.
+Nach einigen demonstrationen und videos gab es eine übung bei der man die gesuchte Zieladresse finden musste.
+![help](Screenshots/M9_übung.png)
+**Unicast**
+Datenübertragung von einem Sender an genau einen bestimmten Empfänger.
+
+**Multicast**
+Datenübertragung von einem Sender an eine definierte Empfängergruppe.
+
+**Broadcast**
+Datenübertragung von einem Sender an alle Geräte innerhalb einer Broadcast-Domain.
