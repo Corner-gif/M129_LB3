@@ -83,3 +83,21 @@ Datenübertragung von einem Sender an eine definierte Empfängergruppe.
 
 **Broadcast**
 Datenübertragung von einem Sender an alle Geräte innerhalb einer Broadcast-Domain.
+
+Weiterführend ging es um die Arten von IPv4 Adressen,
+![help](Screenshots/M9_iparten.png)
+und über Netzwerksegmentierung.
+![help](Screenshots/M9_segment.png)
+
+Zum schluss noch die Prüfung.
+![help](Screenshots/M9_prüfung.png)
+(aufgrund der länge dieses Moduls und dem fehlen spannender aufgaben habe ich nur die wichtigsten teile dokumentiert)
+
+### Modul 10
+Hier wird IPv6 angesprochen.
+<br>
+als erstes wurde die notwendichkeit von IPv6 angesprochen.
+Es wurden dinge wie zum Beispiel der verknappung von IPv4 adressen erwähnt.<br>
+![help](Screenshots/M10_01.png)<br>
+Das Modul ging auch auf das hexadezimalsystem ein und erklärte dieses in zusammenhang mit IPv6.<br>
+![help](Screenshots/M10_hex.png)<br>
