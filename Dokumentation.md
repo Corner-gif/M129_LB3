@@ -108,3 +108,38 @@ Und zum abschluss noch eine Prüfung.<br>
 ![help](Screenshots/M10_ende.png)
 
 ### Modul 11
+Hier geht es um DHCP.
+Es gibt eine kleine Packettracer aufgabe.
+1. Ausgangslage<br>
+![help](Screenshots/M11_ausgangslage.png)<br>
+2. PCs verbinden<br>
+![help](Screenshots/M11_pcs.png)<br>
+3. DHCP aktivieren<br>
+![help](Screenshots/M11_DHCP.png)
+4. Router webpage öffnen<br>
+![help](Screenshots/M11_web.png)
+5. DHCP kontrolieren<br>
+![help](Screenshots/M11_DHCP2.png)
+6. Router IP ändern<br>
+![help](Screenshots/M11_routerip.png)
+7. IP des PCs erneuern<br>
+![help](Screenshots/M11_PCip.png)
+8. Neue webpage öffnen<br>
+![help](Screenshots/M11_web2.png)
+9. Start IP anpassen<br>
+![help](Screenshots/M11_stardip.png)
+10. Maximale user anpassen<br>
+![alt text](Screenshots/M11_maxu.png)
+11. PC IP erneuern<br>
+![help](Screenshots/M11_pcip2.png)
+12. Per ipconfig testen<br>
+![help](Screenshots/M11_ipconfig.png)
+13. PC2 ping test zu Router<br>
+![help](Screenshots/M11_pc2test.png)
+14. Ping test PC02 zu PC0<br>
+![help](Screenshots/M11_PC2ping0.png)
+15. PC2 ping test PC1
+![help](Screenshots/M11_ping3.png)
+16. fertig
+
+### Modul 12
