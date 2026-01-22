@@ -140,6 +140,6 @@ Es gibt eine kleine Packettracer aufgabe.
 ![help](Screenshots/M11_PC2ping0.png)
 15. PC2 ping test PC1<br>
 ![help](Screenshots/M11_ping3.png)
-16. fertig
-![stop_get_some_help](Screenshots/M11_final.png)
+16. fertig<br>
+![stop_get_some_help](Screenshots/M11_final.png)<br>
 ### Modul 12
