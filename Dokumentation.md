@@ -141,5 +141,10 @@ Es gibt eine kleine Packettracer aufgabe.
 15. PC2 ping test PC1<br>
 ![help](Screenshots/M11_ping3.png)
 16. fertig<br>
+Wie Immer noch eine Abschlussprüfung.
 ![stop_get_some_help](Screenshots/M11_final.png)<br>
+
+### Zwischenprüfung
+![stopit](Screenshots/M11_ZwiPrü.png)
+
 ### Modul 12
