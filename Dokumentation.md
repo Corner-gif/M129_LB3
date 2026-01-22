@@ -138,7 +138,7 @@ Es gibt eine kleine Packettracer aufgabe.
 ![help](Screenshots/M11_pc2test.png)
 14. Ping test PC02 zu PC0<br>
 ![help](Screenshots/M11_PC2ping0.png)
-15. PC2 ping test PC1
+15. PC2 ping test PC1<br>
 ![help](Screenshots/M11_ping3.png)
 16. fertig
 
