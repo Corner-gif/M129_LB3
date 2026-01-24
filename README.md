@@ -145,6 +145,20 @@ Wie Immer noch eine Abschlussprüfung.
 ![stop_get_some_help](Screenshots/M11_final.png)<br>
 
 ### Zwischenprüfung
+Bevor Modul 12 begann, kahm noch eine Zwischenprüfung.<br>
 ![stopit](Screenshots/M11_ZwiPrü.png)
 
 ### Modul 12
+Dieses Modul behandelt Gateways zu anderen Netzwerken.
+![stopit](Screenshots/M12_b1.png)
+
+Es gab eine kurze Packettracer aufgabe.
+1. Ausgangslage
+![stopit](Screenshots/M12_start.png)
+2. PC hinzufügen und DHCP aktivieren.
+![stopit](Screenshots/M12_PC.png)
+3. per WEB browser auf Standart Gateway zugreifen.
+![stopit](Screenshots/M12_web1.png)
+4. ISP adresse
+![stopit](Screenshots/M12_isp.png)
+5. 
