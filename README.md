@@ -174,3 +174,20 @@ Es gab eine kurze Packettracer aufgabe.
 
 Und wie jedesmal eine kurze abschlussprüfung.
 ![helpmeeeee](Screenshots/M12_abschluss.png)
+
+### Modul 13
+Modul 13 behandelt die Adressenauflösung.
+Es gibt eine Cisco Packet Tracer aufgabe bei der Informationen in einem netz gesammelt werden müssen.
+
+1. Ping nachverfolgen
+2. MAC adresse im Packet finden.
+![helpemee](Screenshots/M13_MACf.png)
+3. Mit diesem vorgehen die gegebene tabellen ausfüllen.
+Ping 172.16.31.3 --> 172.16.31.2<br>
+![helpplease](Screenshots/M13_tabelle.png)<br>
+Ping 172.16.31.3 --> 10.10.10.2<br>
+![helpemee](Screenshots/M13_tabelle2.png)<br>
+Ping 10.10.10.2 --> 172.16.31.3
+
+Die Aufgabe gab einen tieferen einblick in Pakete (in den aufgaben PDU genannt).
+Sie war etwas repetitiev aber gut für die veranschaulichung.
