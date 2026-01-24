@@ -1,7 +1,7 @@
 # Dokumentation LB3 Modul 129
 
 ## CISCO Networking Academy Networking Basics
-### Module 4
+### Modul 4
 Das Modul 4 der Networking Basics, befasst sich mit dem Aufbau eines Heimnetzwerkes.
 zuerst erfährt man wie ein Router aufgebaut ist, und wie man Ihn einrichtet.
 
@@ -153,12 +153,20 @@ Dieses Modul behandelt Gateways zu anderen Netzwerken.
 ![stopit](Screenshots/M12_b1.png)
 
 Es gab eine kurze Packettracer aufgabe.
-1. Ausgangslage
+1. Ausgangslage<br>
 ![stopit](Screenshots/M12_start.png)
-2. PC hinzufügen und DHCP aktivieren.
+2. PC hinzufügen und DHCP aktivieren.<br>
 ![stopit](Screenshots/M12_PC.png)
-3. per WEB browser auf Standart Gateway zugreifen.
+3. per WEB browser auf Standart Gateway zugreifen.<br>
 ![stopit](Screenshots/M12_web1.png)
-4. ISP adresse
+4. ISP adresse<br>
 ![stopit](Screenshots/M12_isp.png)
-5. 
+5. Drei weitere PCs hinzufügen.<br>
+![stopit](Screenshots/M12_Wpc.png)
+6. IP der Neuen Geräte mit Ipconfig /all überprüfen.<br>
+![stopit](Screenshots/M12_ipconfig.png)
+7. NAT mit dem Simulationsmodus ansehen.<br>
+![getsomehelp](Screenshots/M12_sim.png)
+8. Simulation<br>
+<video controls src="Screenshots/M12_simvid.mp4" title="Simulation"></video>
+9. 
