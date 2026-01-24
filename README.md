@@ -169,6 +169,6 @@ Es gab eine kurze Packettracer aufgabe.
 ![getsomehelp](Screenshots/M12_sim.png)
 8. Simulation<br>
 <video controls src="Screenshots/M12_simvid.mp4" title="Simulation"></video>
-[![Demo Video](Corner-gif/M129_LB3/Screenshots/M12_simvid.mp4)](Corner-gif/M129_LB3/Screenshots/M12_simvid.mp4)
+[![Demo Video](Screenshots/M12_simvid.mp4)](Screenshots/M12_simvid.mp4)
 
 9. 
