@@ -150,6 +150,7 @@ Bevor Modul 12 begann, kahm noch eine Zwischenprüfung.<br>
 
 ### Modul 12
 Dieses Modul behandelt Gateways zu anderen Netzwerken.
+Es wurde der Standartgateway und NAT erklärt.
 ![stopit](Screenshots/M12_b1.png)
 
 Es gab eine kurze Packettracer aufgabe.
@@ -168,8 +169,8 @@ Es gab eine kurze Packettracer aufgabe.
 7. NAT mit dem Simulationsmodus ansehen.<br>
 ![getsomehelp](Screenshots/M12_sim.png)
 8. Simulation<br>
-<video controls src="Screenshots/M12_simvid.mp4" title="Simulation"></video>
 [Video herunterladen](Screenshots/M12_simvid.mp4)
+9. Fertig<br>
 
-
-9. 
+Und wie jedesmal eine kurze abschlussprüfung.
+![helpmeeeee](Screenshots/M12_abschluss.png)
