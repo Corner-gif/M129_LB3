@@ -191,3 +191,54 @@ Ping 10.10.10.2 --> 172.16.31.3
 
 Die Aufgabe gab einen tieferen einblick in Pakete (in den aufgaben PDU genannt).
 Sie war etwas repetitiev aber gut für die veranschaulichung.
+
+Der nächsten Teil behandelte Broadcast domains und die vor sowie nachteile ebendessen.
+Das Bereitgestellte Bild half bei der eher Logischen Thematik.<br>
+![help](Screenshots/M13_broadcast.png)
+
+
+Anschliessend ging es noch um ARP und es wurde in einem Video erklärt wie ARP funktioniert.
+Eine kleine Demonstration zeigte den ARP prozess noch verbildlicht, was half alles zu verstehen.
+
+Die Bestandene abschlussprüfung von Modul 13.
+![helpeme](Screenshots/M13_abschluss.png)
+
+### Modul 14
+Dieses Modul behandelt Routing zwischen netzwerken.
+Im Groben ging es um:
+- Die Notwendigkeit des Routing
+- Die Routing tabelle
+- Lan einrichtung
+
+Zu der Notendichkeit des Routing wurden einige Vorteile augezählt eir z.B. Die verkleinerung von Broadcast domänen.
+
+**Aufgabe:**Datenverkehr in einem gerouteten Netzwerk beobachten
+1. die Ausgangslage.
+![help](Screenshots/M14_ausg.png)
+2. Ping test<br>
+![savemeplease](Screenshots/M14_p1.png)
+3. Netz neu verkabeln<br>
+![help](Screenshots/M14_neunetz.png)
+4. Ping test Sales 1 --> Sales 2
+[helpsaveme](M14_p2.md)
+5. Pingtest Acounting 1--> Acounting 2
+![h](Screenshots/M14_p3.png)
+6. Fertig
+**Aufgabe:** Ein LAN einrichten
+1. Ausgangslage
+![h](Screenshots/M14_ausg2.png)
+2. Verkabelung nach Tabelle.
+![help](Screenshots/M14_tabelle.png)
+![help](Screenshots/M14_verk.png)
+3. IP per DHCP holen.
+![help](Screenshots/M14_DHCP.png)
+4. Drucker IP festlegen.
+![hme](Screenshots/M14_drIP.png)
+5. Konnektivitätstest Admin PC --> Drucker<br>
+![help](Screenshots/M14_kontest.png)
+6. Test Admin PC --> Internet<br>
+![internerz](Screenshots/M14_internez.png)
+7. Fertig
+
+Zum schluss noch eine Abschlussprüfung.
+![alt text](Screenshots/M14_abschluss.png)
