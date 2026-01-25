@@ -212,33 +212,33 @@ Im Groben ging es um:
 
 Zu der Notendichkeit des Routing wurden einige Vorteile augezählt eir z.B. Die verkleinerung von Broadcast domänen.
 
-**Aufgabe:**Datenverkehr in einem gerouteten Netzwerk beobachten
-1. die Ausgangslage.
+**Aufgabe:**Datenverkehr in einem gerouteten Netzwerk beobachten<br>
+1. die Ausgangslage.<br>
 ![help](Screenshots/M14_ausg.png)
 2. Ping test<br>
 ![savemeplease](Screenshots/M14_p1.png)
 3. Netz neu verkabeln<br>
 ![help](Screenshots/M14_neunetz.png)
-4. Ping test Sales 1 --> Sales 2
+4. Ping test Sales 1 --> Sales 2<br>
 [helpsaveme](M14_p2.md)
-5. Pingtest Acounting 1--> Acounting 2
+5. Pingtest Acounting 1--> Acounting 2<br>
 ![h](Screenshots/M14_p3.png)
-6. Fertig
-**Aufgabe:** Ein LAN einrichten
-1. Ausgangslage
+6. Fertig<br>
+**Aufgabe:** Ein LAN einrichten<br>
+1. Ausgangslage<br>
 ![h](Screenshots/M14_ausg2.png)
-2. Verkabelung nach Tabelle.
+2. Verkabelung nach Tabelle.<br>
 ![help](Screenshots/M14_tabelle.png)
 ![help](Screenshots/M14_verk.png)
-3. IP per DHCP holen.
+3. IP per DHCP holen.<br>
 ![help](Screenshots/M14_DHCP.png)
-4. Drucker IP festlegen.
+4. Drucker IP festlegen.<br>
 ![hme](Screenshots/M14_drIP.png)
 5. Konnektivitätstest Admin PC --> Drucker<br>
 ![help](Screenshots/M14_kontest.png)
 6. Test Admin PC --> Internet<br>
 ![internerz](Screenshots/M14_internez.png)
-7. Fertig
+7. Fertig<br>
 
 Zum schluss noch eine Abschlussprüfung.
 ![alt text](Screenshots/M14_abschluss.png)
