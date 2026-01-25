@@ -179,10 +179,10 @@ Und wie jedesmal eine kurze abschlussprüfung.
 Modul 13 behandelt die Adressenauflösung.
 Es gibt eine Cisco Packet Tracer aufgabe bei der Informationen in einem netz gesammelt werden müssen.
 
-1. Ping nachverfolgen
-2. MAC adresse im Packet finden.
+1. Ping nachverfolgen<br>
+2. MAC adresse im Packet finden.<br>
 ![helpemee](Screenshots/M13_MACf.png)
-3. Mit diesem vorgehen die gegebene tabellen ausfüllen.
+3. Mit diesem vorgehen die gegebene tabellen ausfüllen.<br>
 Ping 172.16.31.3 --> 172.16.31.2<br>
 ![helpplease](Screenshots/M13_tabelle.png)<br>
 Ping 172.16.31.3 --> 10.10.10.2<br>
