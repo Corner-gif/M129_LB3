@@ -326,8 +326,108 @@ Wireless LAN adapter Wi-Fi:
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 10.10.10.1
 ```
+Optionen Sind:
+/all --> zeigt zusätzliche informationen an.
+/release --> gibt die aktuellen DHCP-Bindungen frei
+/renew --> fordert neue Konfigurationsinformationen vom DHCP-Server an
 - ping - Testet Verbindungen zu anderen IP-Hosts.
+```
+C:\> ping 10.10.10.1
+ 
+Pinging 10.10.10.1 with 32 bytes of data:
+Reply from 10.10.10.1: bytes=32 time=1ms TTL=64
+Reply from 10.10.10.1: bytes=32 time=1ms TTL=64
+Reply from 10.10.10.1: bytes=32 time=1ms TTL=64
+Reply from 10.10.10.1: bytes=32 time=1ms TTL=64
+ 
+Ping statistics for 10.10.10.1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 1ms, Average = 1ms
+ 
+C:\> ping www.cisco.com
+ 
+Pinging e2867.dsca.akamaiedge.net [104.112.72.241] with 32 bytes of data:
+Reply from 104.112.72.241: bytes=32 time=25ms TTL=53
+Reply from 104.112.72.241: bytes=32 time=25ms TTL=53
+Reply from 104.112.72.241: bytes=32 time=27ms TTL=53
+Reply from 104.112.72.241: bytes=32 time=24ms TTL=53
+ 
+Ping statistics for 104.112.72.241:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 24ms, Maximum = 27ms, Average = 25ms
+```
+Optionen:
+```
+ -t             Ping the specified host until stopped.
+                   To see statistics and continue - type Control-Break;
+                   To stop - type Control-C.
+    -a             Resolve addresses to hostnames.
+    -n count       Number of echo requests to send.
+    -l size        Send buffer size.
+    -f             Set Don't Fragment flag in packet (IPv4-only).
+    -i TTL         Time To Live.
+    -v TOS         Type Of Service (IPv4-only. This setting has been deprecated
+                   and has no effect on the type of service field in the IP
+                   Header).
+    -r count       Record route for count hops (IPv4-only).
+    -s count       Timestamp for count hops (IPv4-only).
+    -j host-list   Loose source route along host-list (IPv4-only).
+    -k host-list   Strict source route along host-list (IPv4-only).
+    -w timeout     Timeout in milliseconds to wait for each reply.
+    -R             Use routing header to test reverse route also (IPv6-only).
+                   Per RFC 5095 the use of this routing header has been
+                   deprecated. Some systems may drop echo requests if
+                   deprecated. Some systems may drop echo requests if
+    -S srcaddr     Source address to use.
+    -c compartment Routing compartment identifier.
+    -p             Ping a Hyper-V Network Virtualization provider address.
+    -4             Force using IPv4.
+    -6             Force using IPv6.
+```
 - netstat - Zeigt Netzwerkverbindungen an.
+```
+C:\Users\cleue>netstat
+
+Aktive Verbindungen
+
+  Proto  Lokale Adresse         Remoteadresse          Status
+  TCP    127.0.0.1:10107        cleue01nb24:61006      WARTEND
+  TCP    127.0.0.1:14107        cleue01nb24:61003      HERGESTELLT
+  TCP    127.0.0.1:14108        cleue01nb24:61002      SCHLIESSEN_WARTEN
+  TCP    127.0.0.1:14109        cleue01nb24:61004      SCHLIESSEN_WARTEN
+  TCP    127.0.0.1:14109        cleue01nb24:61005      SCHLIESSEN_WARTEN
+  TCP    127.0.0.1:49695        cleue01nb24:53893      HERGESTELLT
+  TCP    127.0.0.1:49695        cleue01nb24:53895      HERGESTELLT
+  TCP    127.0.0.1:49695        cleue01nb24:53896      HERGESTELLT
+```
 - tracert - Zeigt die Route zum Ziel an.
+```
+C:\Users\cleue>tracert 8.8.8.8
+
+Routenverfolgung zu dns.google [8.8.8.8]
+über maximal 30 Hops:
+
+  1     3 ms     2 ms     1 ms  internetbox.home [192.168.1.1]
+  2     5 ms     7 ms     4 ms  1.88.60.188.dynamic.cust.swisscom.net [188.60.88.1]
+  3     *        *        *     Zeitüberschreitung der Anforderung.
+  4     5 ms     5 ms     5 ms  i79zhb-015-ae30.bb.ip-plus.net [193.134.95.172]
+```
 - nslookup - Fragt direkt den Nameserver nach Informationen über eine Zieldomäne ab.
+```
+C:\Users\cleue>nslookup tbz.ch
+Server:  internetbox.home
+Address:  2a02:1210:1818:4d00:def5:1bff:fe9e:1fc0
+
+Nicht autorisierende Antwort:
+Name:    tbz.ch
+Addresses:  2606:4700:20::ac43:4a4f
+          2606:4700:20::681a:739
+          2606:4700:20::681a:639
+          104.26.6.57
+          104.26.7.57
+          172.67.74.79
+```
+
 
