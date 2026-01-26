@@ -242,3 +242,31 @@ Zu der Notendichkeit des Routing wurden einige Vorteile augezählt eir z.B. Die 
 
 Zum schluss noch eine Abschlussprüfung.
 ![alt text](Screenshots/M14_abschluss.png)
+
+### Zwischenprüfung
+Die Zwischenprüfung zu Kommunikation zwischen netzwerken.
+![helpemeee](Screenshots/Zwi_prü_kom.png)
+
+### Modul 15
+Dieses Modul handelt um die Transportschicht.
+Besprochen wurden TCP/UDP und Port nummern
+
+TCP/UDP:<br>
+Dieser Teil ist sehr kurz und erklärt in eine Acht minütigen Video das Konzept von TCP und UDP.
+
+Port nummern:<br>
+Dieses thema wird etwas länger behandelt.<br>
+Die folgenden Bilder veranschaulichen das thema in verbindung mit TCP und UDP.<br>
+![helpmee](Screenshots/M15_tcpudp_port.png)
+![heupme](Screenshots/M15_portnmb.png)
+
+Gezeigt wird auch der netstat befehl der aktive netzwerkverbindungen und offene Ports anzeigt.<br>
+![help](Screenshots/M15_netstat.png)
+
+Die abschlussprüfung habe ich sehr gut bestanden.<br>
+![help](Screenshots/M15_abschluss.png)
+
+### Modul 16
+Dienste der Anwendungsschicht ist das nächste und zweitletzte thema.
+Es soll die Funktion gängiger services der anwendungsschicht erläutern.
+
