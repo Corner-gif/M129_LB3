@@ -326,10 +326,10 @@ Wireless LAN adapter Wi-Fi:
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 10.10.10.1
 ```
-Optionen Sind:
-/all --> zeigt zusätzliche informationen an.
-/release --> gibt die aktuellen DHCP-Bindungen frei
-/renew --> fordert neue Konfigurationsinformationen vom DHCP-Server an
+Optionen Sind:<br>
+/all --> zeigt zusätzliche informationen an.<br>
+/release --> gibt die aktuellen DHCP-Bindungen frei<br>
+/renew --> fordert neue Konfigurationsinformationen vom DHCP-Server an<br>
 - ping - Testet Verbindungen zu anderen IP-Hosts.
 ```
 C:\> ping 10.10.10.1
