@@ -308,7 +308,7 @@ Abschlussprüfung:<br>
 ### Modul 17
 Im letzten Modul dieses Kurses werden werkzeuge für Netzwerktests vorgestellt.
 Ein überblick über die besprochenen Befehle.
-- ipconfig - Zeigt IP-Konfigurationsinformationen an.
+- **ipconfig** - Zeigt IP-Konfigurationsinformationen an.
 ```
 Windows IP Configuration
  
@@ -330,7 +330,7 @@ Optionen Sind:<br>
 /all --> zeigt zusätzliche informationen an.<br>
 /release --> gibt die aktuellen DHCP-Bindungen frei<br>
 /renew --> fordert neue Konfigurationsinformationen vom DHCP-Server an<br>
-- ping - Testet Verbindungen zu anderen IP-Hosts.
+- **ping** - Testet Verbindungen zu anderen IP-Hosts.
 ```
 C:\> ping 10.10.10.1
  
@@ -386,7 +386,7 @@ Optionen:
     -4             Force using IPv4.
     -6             Force using IPv6.
 ```
-- netstat - Zeigt Netzwerkverbindungen an.
+- **netstat** - Zeigt Netzwerkverbindungen an.
 ```
 C:\Users\cleue>netstat
 
@@ -402,7 +402,7 @@ Aktive Verbindungen
   TCP    127.0.0.1:49695        cleue01nb24:53895      HERGESTELLT
   TCP    127.0.0.1:49695        cleue01nb24:53896      HERGESTELLT
 ```
-- tracert - Zeigt die Route zum Ziel an.
+- **tracert** - Zeigt die Route zum Ziel an.
 ```
 C:\Users\cleue>tracert 8.8.8.8
 
@@ -414,7 +414,7 @@ Routenverfolgung zu dns.google [8.8.8.8]
   3     *        *        *     Zeitüberschreitung der Anforderung.
   4     5 ms     5 ms     5 ms  i79zhb-015-ae30.bb.ip-plus.net [193.134.95.172]
 ```
-- nslookup - Fragt direkt den Nameserver nach Informationen über eine Zieldomäne ab.
+- **nslookup** - Fragt direkt den Nameserver nach Informationen über eine Zieldomäne ab.
 ```
 C:\Users\cleue>nslookup tbz.ch
 Server:  internetbox.home
