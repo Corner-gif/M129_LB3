@@ -267,6 +267,67 @@ Die abschlussprüfung habe ich sehr gut bestanden.<br>
 ![help](Screenshots/M15_abschluss.png)
 
 ### Modul 16
-Dienste der Anwendungsschicht ist das nächste und zweitletzte thema.
-Es soll die Funktion gängiger services der anwendungsschicht erläutern.
+Dienste der Anwendungsschicht ist das nächste und zweitletzte thema.<br>
+Es soll die Funktion gängiger services der anwendungsschicht erläutern.<br>
+Behandelt wurde:<br>
+Die Beziehung von Clients und Servern<br>
+Es wurde das Client-Server-Modell erklärt, inklusive der Rolle von Servern, Clients sowie der verwendeten Standards und Protokolle.<br>
+Zudem wurden gängige Serverdienste wie Web-, E-Mail- und Dateiserver und die zugehörige Client-Software behandelt.<br>
+Es wurde auch eine kleine demonstration in Packettracer gezeigt<br>
+![help](Screenshots/M16_demo.png)
+Anwendungsdienste im Netzwerk<br>
+Es wurden gängige Internet-Services und deren TCP/IP-basierte Bereitstellung erklärt.
+![help](Screenshots/M16_2.2.png)<br>
+![alt text](Screenshots/M16_2.3.png)<br>
+
+Domain Name System (DNS)<br>
+-Es wurde erklärt, wie ein DNS-Server Domainnamen in IP-Adressen auflöst, damit Clients Server im Internet erreichen können.<br>
+Dabei wurde der Ablauf einer DNS-Anfrage und -Antwort zwischen Client und DNS-Server beschrieben.<br>
+-Es wurde auch einen syntax-checker vorgestellt.<br>
+![help](Screenshots/M16_syntax.png)
+Web-Clients und -Server<br>
+-Es wurden HTTP und HTML erklärt sowie deren Rolle bei der Kommunikation zwischen Client und Webserver.<br>
+-Zusätzlich wurde gezeigt, wie über DNS die IP-Adresse ermittelt, die Webseite per HTTP angefordert und der HTML-Code im Browser dargestellt wird.
+
+FTP-Clients und -Server<br>
+Es wurde erklärt, wie FTP zur Dateiübertragung zwischen Client und Server genutzt wird und welche Aufgaben dabei möglich sind (Upload, Download, Dateiverwaltung).<br>
+Dabei wurde auch beschrieben, dass FTP eine Steuerverbindung (Port 21) und eine Datenverbindung (Port 20) verwendet.<br>
+![help](Screenshots/M16_FTP.png)
+Virtuelle Terminals<br>
+Es wurde erklärt, wie Telnet und SSH den Remote-Zugriff auf Server ermöglichen und wie dabei virtuelle Terminalsitzungen genutzt werden.<br>
+Zusätzlich wurde gezeigt, dass Telnet Daten unverschlüsselt überträgt, während SSH eine sichere, verschlüsselte Verbindung mit Authentifizierung bereitstellt.<br>
+Bilder zu Telnet:<br>
+![help](Screenshots/M16_telnet1.png)<br>
+Probleme von Telnet:<br>
+![help](Screenshots/M16_probtelnet.png)
+E-Mail und Messaging<br>
+Es wurde erklärt, wie E-Mail als Client-Server-Dienst funktioniert und wie Nachrichten auf Mailservern gespeichert und von Clients abgerufen werden.<br>
+Dabei wurden die E-Mail-Protokolle SMTP (Senden), POP3 und IMAP4 (Empfangen) sowie deren grundlegende Unterschiede und Ports beschrieben.<br>
+Abschlussprüfung:<br>
+![help](Screenshots/M16_abschluss.png)
+### Modul 17
+Im letzten Modul dieses Kurses werden werkzeuge für Netzwerktests vorgestellt.
+Ein überblick über die besprochenen Befehle.
+- ipconfig - Zeigt IP-Konfigurationsinformationen an.
+```
+Windows IP Configuration
+ 
+ 
+Ethernet adapter Ethernet:
+ 
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix . :
+ 
+Wireless LAN adapter Wi-Fi:
+ 
+   Connection-specific DNS Suffix . : lan
+   Link-local IPv6 Address . . . . . : fe80::a1cc:4239:d3ab:2675%6
+   IPv4 Address. . . . . . . . . . . : 10.10.10.130
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.10.10.1
+```
+- ping - Testet Verbindungen zu anderen IP-Hosts.
+- netstat - Zeigt Netzwerkverbindungen an.
+- tracert - Zeigt die Route zum Ziel an.
+- nslookup - Fragt direkt den Nameserver nach Informationen über eine Zieldomäne ab.
 
