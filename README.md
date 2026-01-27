@@ -444,5 +444,5 @@ Die allerletzte grosse Prüfung dieses Kurses.
 ![zerti](Screenshots/Zerti.png)
 
 ## Kurze Rückmeldung zum Kurs
-Ich fand den kurs zwar hilfreich aber teilweise sehr sehr Trocken und in die länge gezogen.
+Ich fand den kurs zwar hilfreich aber teilweise sehr sehr Trocken und in die länge gezogen.<br>
 Die tests und Packettracer aufgaben waren ein sehr spannender Teil des Kurses und haben mir viel spass gemacht.
