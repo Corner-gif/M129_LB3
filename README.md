@@ -274,7 +274,7 @@ Die Beziehung von Clients und Servern<br>
 Es wurde das Client-Server-Modell erklärt, inklusive der Rolle von Servern, Clients sowie der verwendeten Standards und Protokolle.<br>
 Zudem wurden gängige Serverdienste wie Web-, E-Mail- und Dateiserver und die zugehörige Client-Software behandelt.<br>
 Es wurde auch eine kleine demonstration in Packettracer gezeigt<br>
-![help](Screenshots/M16_demo.png)
+![help](Screenshots/M16_demo.png)<br>
 Anwendungsdienste im Netzwerk<br>
 Es wurden gängige Internet-Services und deren TCP/IP-basierte Bereitstellung erklärt.
 ![help](Screenshots/M16_2.2.png)<br>
