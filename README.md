@@ -441,4 +441,4 @@ Die allerletzte grosse Prüfung dieses Kurses.
 ![abschluss](Screenshots/abschluss.png)
 ![abschluss2](Screenshots/abschluss2.png)
 ### Zertifikat
-![ZERTIFIKAAAT](Screenshots/ZETRIFIKAAAAAT.png)
+![zerti](Screenshots/Zerti.png)
