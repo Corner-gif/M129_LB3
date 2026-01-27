@@ -442,3 +442,7 @@ Die allerletzte grosse Prüfung dieses Kurses.
 ![abschluss2](Screenshots/abschluss2.png)
 ### Zertifikat
 ![zerti](Screenshots/Zerti.png)
+
+## Kurze Rückmeldung zum Kurs
+Ich fand den kurs zwar hilfreich aber teilweise sehr sehr Trocken und in die länge gezogen.
+Die tests und Packettracer aufgaben waren ein sehr spannender Teil des Kurses und haben mir viel spass gemacht.
